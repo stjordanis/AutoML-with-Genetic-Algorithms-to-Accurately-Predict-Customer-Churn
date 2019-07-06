@@ -1,6 +1,6 @@
 # AutoML for Customer Churn
 
-![](images/overall_framework.png)
+![](images/automated-pipeline-customer-churn.png)
 * Deep Feature Synthesis: https://blog.featurelabs.com/deep-feature-synthesis/
 
 * Automated Feature Engineering: https://towardsdatascience.com/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96
