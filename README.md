@@ -1,5 +1,6 @@
 # AutoML for Customer Churn
 
+Automated customer churn end-to-end pipeline:
 ![](images/automated-pipeline-customer-churn.png)
 * Deep Feature Synthesis: https://blog.featurelabs.com/deep-feature-synthesis/
 
