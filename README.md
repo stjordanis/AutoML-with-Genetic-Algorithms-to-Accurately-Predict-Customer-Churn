@@ -63,7 +63,7 @@ __Feature Importances__
 
 ![](images/most_important_rf.png)
 
-# Notebooks
+# Code files inside Churn folder:
 
 1. Partitioning Data: Separate data into independent subsets to run operations in parallel.
 2. Prediction Engineering: Create labels based on the business need and historical data.
