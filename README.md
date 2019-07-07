@@ -10,7 +10,7 @@ Automated customer churn end-to-end pipeline:
 
 * Genetic Algorithms that evolve with data/churn: https://www.sciencedirect.com/science/article/abs/pii/S2210650216301754
 
-* TPOT Automated Machine Learning in Python: Genetic Search Algothioms with TPOT: https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9
+* "TPOT Automated Machine Learning in Python" - Genetic Search Algothioms with TPOT: https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9
 
 The end outcome is a both a specific solution to a customer churn use case, with a reduction in revenue lost to churn of more than 10%, 
 as well as a general approach you can use to solve your own problems with machine learning. 
